@@ -34,6 +34,7 @@ water_bodies = [
         'pre_instruction':None,
         'coord': (778, 39), 
         'water_level': 0,
+        'discharge_value': 0
     },     
      
     {
@@ -42,6 +43,8 @@ water_bodies = [
         'pre_instruction':None,
         'coord': (689, 251),
         'water_level': 0,
+        'discharge_value': 0
+
     }, 
 
     {
@@ -49,6 +52,7 @@ water_bodies = [
         'pre_cord': (647,305),
         'pre_instruction': None,
         'coord': (821, 134),
+        'discharge_value': 0,
         'water_level': 0, 
     },   
     
@@ -58,6 +62,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (727, 213),
         'water_level': 0,
+        'discharge_value': 0
      },
 
     {
@@ -67,6 +72,7 @@ water_bodies = [
         'pre_instruction': [Keys.DOWN] * 6 + [Keys.RIGHT] * 3,
         'coord': (788, 431),
         'water_level': 0,
+        'discharge_value': 0
      },
      
      {
@@ -75,6 +81,7 @@ water_bodies = [
          'pre_instruction': None, 
          'coord': (815, 307),
          'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Калжыр - с. Калжыр',
@@ -82,6 +89,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (585, 393),
         'water_level': 0,
+        'discharge_value': 0,
     },   
     
     {
@@ -89,6 +97,7 @@ water_bodies = [
         'pre_cord': None, 
         'pre_instruction': None,
         'coord': (144, 151),
+        'discharge_value': 0,
         'water_level': 0,
     },
 
@@ -97,6 +106,7 @@ water_bodies = [
         'pre_cord': None, 
         'pre_instruction': None,
         'coord': (325, 251),
+        'discharge_value': 0,
         'water_level': 0,
     }, 
     {
@@ -104,6 +114,7 @@ water_bodies = [
         'pre_cord': None, 
         'pre_instruction': None, 
         'coord': (305, 350),
+        'discharge_value': 0,
         'water_level': 0,
     },
     {
@@ -111,6 +122,7 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None, 
         'coord': (348, 478),
+        'discharge_value': 0,
         'water_level': 0,
     }, 
     {
@@ -118,6 +130,7 @@ water_bodies = [
         'pre_cord': None, 
         'pre_instruction': None,
         'coord': (530, 326  ),
+        'discharge_value': 0,
         'water_level': 0,
     },
     {
@@ -125,6 +138,7 @@ water_bodies = [
         'pre_cord': None, 
         'pre_instruction': None,
         'coord': (376, 367),
+        'discharge_value': 0,
         'water_level': 0,
     },
 
@@ -132,6 +146,7 @@ water_bodies = [
         'name': 'р. Нарын - с. Улкен Нарын',
         'pre_cord': (491, 399),
         'pre_instruction': None,
+        'discharge_value': 0,
         'coord': (501, 203),
         'water_level':0
     },
@@ -140,6 +155,7 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (470, 251),
+        'discharge_value': 0,
         'water_level':0,
     },
     {
@@ -148,6 +164,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (526, 251),
         'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Буктырма - с. Барлык',
@@ -155,6 +172,7 @@ water_bodies = [
         'pre_instruction': None, 
         'coord': (618, 233),
         'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Буктырма - с. Берель',
@@ -162,6 +180,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (852, 248),
         'water_level': 0,
+        'discharge_value': 0
     },
 
     {
@@ -169,7 +188,8 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (512, 250),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -177,7 +197,8 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (680, 290),
-        'water_level': 0
+        'water_level': 0,
+        'discharge_value': 0
     },
 
     {
@@ -185,14 +206,16 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None, 
         'coord': (597, 296),
-        'water_level': 0
+        'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Сарымсакты - с. Катон-Карагай',
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (544, 316),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -201,6 +224,8 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (682, 246),
         'water_level': 0,
+
+        'discharge_value': 0
     },
 
     {
@@ -208,7 +233,8 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (310, 125),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -217,6 +243,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (323, 351),
         'water_level': 0,
+        'discharge_value': 0
     },
 
     {
@@ -224,7 +251,8 @@ water_bodies = [
         'pre_cord': (404, 365),
         'pre_instruction': None,
         'coord': (268, 236),
-        'water_level': 0
+        'water_level': 0,
+        'discharge_value': 0
     },
     
     {
@@ -232,7 +260,8 @@ water_bodies = [
         'pre_cord': None, 
         'pre_instruction': None, 
         'coord': (220, 317),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -240,7 +269,8 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None, 
         'coord': (165,335),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -248,7 +278,8 @@ water_bodies = [
         'pre_cord': (251,377),
         'pre_instruction': None,
         'coord': (340, 249),
-        'water_level': 0
+        'water_level': 0,
+        'discharge_value': 0
     },
     
     {
@@ -256,7 +287,8 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (342,325),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -264,7 +296,8 @@ water_bodies = [
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (118, 280),
-        'water_level': 0
+        'water_level': 0,
+        'discharge_value': 0
     },
 
     {
@@ -273,6 +306,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (122,216),
         'water_level': 0,
+        'discharge_value': 0
     },
 
     {
@@ -280,7 +314,8 @@ water_bodies = [
         'pre_cord': (289, 284),
         'pre_instruction': None,
         'coord': (153,220),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
 
     {
@@ -289,7 +324,9 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (121,241),
         'water_level': 0,
+        'discharge_value': 0
     },
+
 
     {
         'name': 'р. Улан - с. Герасимовка',
@@ -297,6 +334,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (216, 334),
         'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Дресвянка - с. Отрадное',
@@ -304,6 +342,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (185, 328),
         'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Сибе - с. Алгабас',
@@ -311,6 +350,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (242,500),
         'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Жартас - с. Гагарино',
@@ -318,6 +358,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (114,278),
         'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Тайынты - с. Акбулан',
@@ -325,6 +366,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (395,458),
         'water_level': 0,
+        'discharge_value': 0
     },
 
     {
@@ -333,27 +375,31 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (373,326),
         'water_level': 0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Ертис - с. Уварова',
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (278,307),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Оба - с. Верхуба',
         'pre_cord': (455,331),
         'pre_instruction': None,
         'coord': (284,185),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
     {
         'name':'р. Малая Убинка - с. Быструха',
         'pre_cord': None,
         'pre_instruction': None,
         'coord': (413,405),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Оба - с. Каракожа',
@@ -361,13 +407,15 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (398,151),
         'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Оба - г. Шемонаиха',
         'pre_cord':None,
         'pre_instruction':None,
         'coord':(185,301),
-        'water_level':0
+        'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'вдхр. Буктырма - п. Тугыл',
@@ -375,6 +423,7 @@ water_bodies = [
         'pre_instruction': [Keys.DOWN] * 9,
         'coord': (609,383),
         'water_level':0,
+        'discharge_value': 0
     },
     {
         'name': 'р. Кандысу - с. Сарыолен',
@@ -382,6 +431,7 @@ water_bodies = [
         'pre_instruction': None,
         'coord': (589,505),
         'water_level':0,
+        'discharge_value': 0
     },
 
 ]
@@ -391,7 +441,7 @@ try:
 
     # driver.maximize_window()
 
-    sleep(5)  # Ждем, чтобы страница полностью загрузилась
+    sleep(15)  # Ждем, чтобы страница полностью загрузилась
     
     cycle_var = True
     zoom_in_button = None
@@ -448,11 +498,18 @@ try:
         sleep(.3)
         try:
             row_element = driver.find_element(By.XPATH, "//td[font[text()='Фактический уровень, см']]/following-sibling::td")
-            print(row_element)
             table_value = row_element.text 
             body['water_level'] = table_value
-            print(table_value)
+            discharge_element = driver.find_element(By.XPATH, "//td[font[text()='Фактический расход, м³/с']]/following-sibling::td")
+            if discharge_element:
+                print("found discharge element for", body['name'])
+                
+                discharge_value = discharge_element.text 
+                print(discharge_value)
+            else:
+                discharge_value = 0 
 
+            body['discharge_value'] = discharge_value
         except Exception as e:
             print(f"Couldnt find a water level value for {body['name']}", e)
 
@@ -474,7 +531,7 @@ try:
 
 
     df = pd.DataFrame(water_bodies)
-    df = df[['name', 'water_level', 'date']]
+    df = df[['name', 'water_level', 'discharge_value', 'date']]
     df.to_csv('hydroposts1.csv', index=False, encoding='utf-8-sig')
 
 finally:
